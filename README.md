@@ -1,6 +1,13 @@
 # hospital_app
+login screen
+signup screen
+book appointment with doctor screen
+chat doctor screen
+profile management screen 
+scheduler screen 
+those are all  the functionaltes of th app im also still working on it 
 
-A new Flutter project.
+
 
 ## Getting Started
 
