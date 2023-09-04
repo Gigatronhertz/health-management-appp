@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hospital_app/screens/Appointment_Screen.dart';
 import 'package:hospital_app/screens/homeScreen.dart';
+import 'package:hospital_app/screens/messages.dart';
 import 'package:hospital_app/screens/settings_screen.dart';
 
 import '../screens/schedule_screen.dart';
@@ -18,7 +19,7 @@ class _NavBarRootsState extends State<NavBarRoots> {
   final _screens = [
     HomeScreen(),
     //messages screen
-    Container(),
+    MassageScreen(),
     //schedule screen
     ScheduleScreen(),
     //settings screen
